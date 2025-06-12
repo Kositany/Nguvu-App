@@ -1,6 +1,6 @@
 <script setup>
 import Welcome from './components/pages/Welcome.vue'
-import Layout from './components/layout/Layout.vue'
+import Layout from './components/Layout/Layout.vue'
 import Dashboard from './components/pages/Dashboard.vue'
 import Workout from './components/pages/Workout.vue'
 import { computed, ref, onMounted } from 'vue'
