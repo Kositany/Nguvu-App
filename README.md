@@ -1,10 +1,57 @@
-<<<<<<< HEAD
-# Vue 3 + Vite
+# 💪 Nguvu App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Nguvu App is a simple workout tracker built using **Vue.js** to help users follow a structured **30-day Push, Pull, Legs (PPL)** workout plan.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-=======
-# Nguvu-App
-Nguvu app
->>>>>>> c5445a730292f38713ef64c0d5e16985ad0c9817
+---
+
+## 🔥 Features
+
+- **Welcome Page**  
+  Friendly intro screen prompting users to begin their fitness journey.
+
+- **Dashboard Page**  
+  Displays a grid with a **30-day PPL split** (Push, Pull, Legs), allowing users to select their workout for the day.
+
+- **Dynamic Workout Page**  
+  Each workout day features:
+  - A **Warm-Up** section  
+  - A **Workout** section  
+  Content dynamically updates based on the workout type selected.
+
+---
+
+## 🛠 Built With
+
+- [Vue.js 3](https://vuejs.org/)  
+- [Vite](https://vitejs.dev/) - Fast development build tool  
+- [Node.js](https://nodejs.org/) & [npm](https://www.npmjs.com/) for dependency management  
+
+
+---
+
+## 🚀 Getting Started
+
+1. Clone or download the repo  
+2. Open `index.html` in your browser  
+3. Start your 30-day workout challenge!  
+
+---
+
+## 🧠 Future Ideas
+
+- Track completed days  
+- Add rest days and reminders  
+- Save progress using localStorage or Firebase  
+- Include videos or images for each exercise  
+
+---
+
+## 👤 Author
+
+**Marco Kositany**  
+[GitHub Profile](https://github.com/Kositany)
+
+---
+
+**Stay strong. Stay consistent. Nguvu means strength. 🦍**
+
